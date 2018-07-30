@@ -9,7 +9,7 @@
         "Misiur/YSI-Includes",
         "samp-incognito/samp-streamer-plugin"
     ],
-    "dev_dependencies": ["ScavengeSurvive/test-boilerplate", "Southclaws/zcmd"],
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate", "Southclaws/zcmd"],
     "runtime": {
         "plugins": ["samp-incognito/samp-streamer-plugin"]
     }
